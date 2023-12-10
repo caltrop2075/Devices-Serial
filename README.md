@@ -1,6 +1,4 @@
 # Devices-Serial
-divices & serial (iRiver)
-
 Devices & Serial (iRiver)
 
 a fairly technical document...
